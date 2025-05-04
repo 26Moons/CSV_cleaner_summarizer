@@ -1,0 +1,11 @@
+Region,Sales,Date,Notes,ExtraColumn1
+North,1500,15-01-2025,Sold 10 units,junk
+south,2200,20-01-2025,Sold 15 units,junk
+EAST,2500,25-01-2025,Sold 12 units,junk
+norrth,1800,01-02-2025,,junk
+East,2100,10-02-2025,Sold 20 units,junk
+45,1900,15-02-2025,Sold 8 units,junk
+North,,20-02-2025,Sold 5 units,junk
+South,2300,05-03-2025,,junk
+South,2200,10-03-2025,Sold 25 units,junk
+EAST,2600,15-03-2025,Sold 10 units,junk

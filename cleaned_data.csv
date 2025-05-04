@@ -1,0 +1,11 @@
+Region,Sales,Date,Notes,Month
+North,1500.0,2025-01-15,Sold 10 units,2025-01
+South,2200.0,2025-01-20,Sold 15 units,2025-01
+East,2500.0,2025-01-25,Sold 12 units,2025-01
+North,1800.0,2025-02-01,,2025-02
+East,2100.0,2025-02-10,Sold 20 units,2025-02
+Unknown,1900.0,2025-02-15,Sold 8 units,2025-02
+North,,2025-02-20,Sold 5 units,2025-02
+South,2300.0,2025-03-05,,2025-03
+South,2200.0,2025-03-10,Sold 25 units,2025-03
+East,2600.0,2025-03-15,Sold 10 units,2025-03
